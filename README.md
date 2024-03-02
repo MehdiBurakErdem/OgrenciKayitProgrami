@@ -1,1 +1,2 @@
 # OgrenciKayitProgrami
+Bu repoda orta - ileri seviye c ile programlanmış proje yer almaktadır. Dosyaya işlemleri ile bir veri tabanı misali dosyanın içeriğine kullanıcının girdiği ; Öğrenci ad -soyad ve ortalamasının yer aldığı, dilediğinde istediğin öğrenci sorgulayıp dilediğinde veri tabanını görüntüleyebilir. İyi çalışmalar
